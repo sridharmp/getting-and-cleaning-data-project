@@ -1,5 +1,5 @@
 # Downloaded the file manually from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
-and unzipped the data Sets to 'UCI HAR Dataset' directory
+# and unzipped the data Sets to 'UCI HAR Dataset' directory
 
 #  Dealing with Activity Labels & Features
 activityLabels <- read.table("UCI HAR Dataset/activity_labels.txt")
